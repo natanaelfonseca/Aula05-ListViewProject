@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/natanaelfonseca/AndroidStudioProjects/Aula05-ListViewProject/Aula05-ListView/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/natanaelfonseca/AndroidStudioProjects/Aula05-ListViewProject/Aula05-ListView/src/debug/assets" />
+    </dataSet>
+
+</merger>

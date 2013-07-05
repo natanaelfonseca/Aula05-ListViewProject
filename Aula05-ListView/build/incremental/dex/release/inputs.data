@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370893466000 391 6a8fe0bfe4740f8134878c696bd7f3af4e511fcb /home/natanaelfonseca/AndroidStudioProjects/Aula05-ListViewProject/Aula05-ListView/build/classes/release/br/com/treinamento/R$xml.class
+1370878960000 394 975fd1d969ed32b9cee64d59fa2c80bfdc163681 /home/natanaelfonseca/AndroidStudioProjects/Aula05-ListViewProject/Aula05-ListView/build/classes/release/br/com/treinamento/R$layout.class
+1370893466000 389 0b067d989de0a2197f6c098d7b98110ae7f9612c /home/natanaelfonseca/AndroidStudioProjects/Aula05-ListViewProject/Aula05-ListView/build/classes/release/br/com/treinamento/R$id.class
+1370893466000 431 75275d6caf0f083de624e09d07027c682b4460c2 /home/natanaelfonseca/AndroidStudioProjects/Aula05-ListViewProject/Aula05-ListView/build/classes/release/br/com/treinamento/R$style.class
+1370893466000 472 3fb57d09a5b33d3e0ef155406fc191a1ec559096 /home/natanaelfonseca/AndroidStudioProjects/Aula05-ListViewProject/Aula05-ListView/build/classes/release/br/com/treinamento/R$string.class
+1370878960000 345 2a268d00837dcb555d5bbe22f7b542abb5a2da8e /home/natanaelfonseca/AndroidStudioProjects/Aula05-ListViewProject/Aula05-ListView/build/classes/release/br/com/treinamento/BuildConfig.class
+1370893466000 721 2177c970935fa3ffcb3497dc9aa32a2e684c84c7 /home/natanaelfonseca/AndroidStudioProjects/Aula05-ListViewProject/Aula05-ListView/build/classes/release/br/com/treinamento/R.class
+1370893466000 461 d7cd0eb2f2e8201e9f131887d576a3ec05618133 /home/natanaelfonseca/AndroidStudioProjects/Aula05-ListViewProject/Aula05-ListView/build/classes/release/br/com/treinamento/R$dimen.class
+1370893466000 388 615643fb699a6ff391e743d3641478f27d8c3394 /home/natanaelfonseca/AndroidStudioProjects/Aula05-ListViewProject/Aula05-ListView/build/classes/release/br/com/treinamento/R$menu.class
+1370878960000 340 6eac538d7c17a2f03e0f9c795dfa8b1bcf2be88e /home/natanaelfonseca/AndroidStudioProjects/Aula05-ListViewProject/Aula05-ListView/build/classes/release/br/com/treinamento/R$attr.class
+1370894454000 3468 b9d66edc51192c2fb24714b12312ed1685eab1ff /home/natanaelfonseca/AndroidStudioProjects/Aula05-ListViewProject/Aula05-ListView/build/classes/release/br/com/treinamento/MainActivity.class
+1370878960000 407 b76f8b301de0ddeadaed5f283bddc36fe90af0cb /home/natanaelfonseca/AndroidStudioProjects/Aula05-ListViewProject/Aula05-ListView/build/classes/release/br/com/treinamento/R$drawable.class
+1370878932000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /home/natanaelfonseca/AndroidStudioProjects/Aula05-ListViewProject/Aula05-ListView/libs/android-support-v4.jar
